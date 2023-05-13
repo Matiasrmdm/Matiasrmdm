@@ -1,2 +1,2 @@
-### Olá eu seou Renê Matias
+### Olá eu sou Renê Matias
 
