@@ -3,21 +3,21 @@
  ➤ Acadêmico: Análise e Desenvolvimento de Sistemas - PucMinas 👨‍🎓
 
 ## Redes:
-
-  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%AA-matias-931689249/)
+<div style="display: inline_block"><br/>
+  <img align="conter" alt="html5" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>
+</div>
 
 ## Tecnologias:
-
 <div style="display: inline_block"><br/>
-  <img align="conter" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="conter" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="conter" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="conter" alt="html5" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+  <img align="conter" alt="html5" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+  <img align="conter" alt="html5"  height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
 
 ## Ferramentas:
-
 <div style="display: inline_block"><br/>
-  <img align="conter" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="conter" alt="html5" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+  <img align="conter" alt="html5" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
 </div>
 
 ##
