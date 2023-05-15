@@ -4,7 +4,7 @@
 
 ## Redes:
 <div style="display: inline_block">
-  <img align="conter" alt="html5" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>(https://www.linkedin.com/in/ren%C3%AA-matias-931689249/)
+  <img align="conter" alt="html5" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>
 </div>
 
 ## Tecnologias:
