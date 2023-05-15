@@ -4,7 +4,7 @@
 
 ## Redes:
 <div style="display: inline_block">
-  <img align="conter" alt="html5" height="60" width="40" hrf="https://www.linkedin.com/in/ren%C3%AA-matias-931689249/" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>
+  <img align="conter" alt="html5" height="60" width="40" <a hef="https://www.linkedin.com/in/ren%C3%AA-matias-931689249/">Matias</a> src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>
 </div>
 
 ## Tecnologias:
